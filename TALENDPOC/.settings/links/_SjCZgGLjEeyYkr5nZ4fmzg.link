@@ -1,0 +1,68 @@
+{
+  "itemId" : "_SjCZgGLjEeyYkr5nZ4fmzg",
+  "contextList" : [ {
+    "contextName" : "Dev",
+    "repoId" : "_6kE7YGOlEeyYkr5nZ4fmzg",
+    "parameterList" : [ {
+      "id" : "_6kYdYWOlEeyYkr5nZ4fmzg",
+      "name" : "host"
+    }, {
+      "id" : "_6kYdZGOlEeyYkr5nZ4fmzg",
+      "name" : "password"
+    }, {
+      "id" : "_6kYdYmOlEeyYkr5nZ4fmzg",
+      "name" : "port"
+    }, {
+      "id" : "_6kYdY2OlEeyYkr5nZ4fmzg",
+      "name" : "username"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_6kE7YGOlEeyYkr5nZ4fmzg",
+    "parameterList" : [ {
+      "id" : "_Vvyz4WOoEeyYkr5nZ4fmzg",
+      "name" : "host"
+    }, {
+      "id" : "_Vvyz5GOoEeyYkr5nZ4fmzg",
+      "name" : "password"
+    }, {
+      "id" : "_Vvyz4mOoEeyYkr5nZ4fmzg",
+      "name" : "port"
+    }, {
+      "id" : "_Vvyz42OoEeyYkr5nZ4fmzg",
+      "name" : "username"
+    } ]
+  }, {
+    "contextName" : "QA",
+    "repoId" : "_6kE7YGOlEeyYkr5nZ4fmzg",
+    "parameterList" : [ {
+      "id" : "_Vvyz5mOoEeyYkr5nZ4fmzg",
+      "name" : "host"
+    }, {
+      "id" : "_Vvyz6WOoEeyYkr5nZ4fmzg",
+      "name" : "password"
+    }, {
+      "id" : "_Vvyz52OoEeyYkr5nZ4fmzg",
+      "name" : "port"
+    }, {
+      "id" : "_Vvyz6GOoEeyYkr5nZ4fmzg",
+      "name" : "username"
+    } ]
+  }, {
+    "contextName" : "UAT",
+    "repoId" : "_6kE7YGOlEeyYkr5nZ4fmzg",
+    "parameterList" : [ {
+      "id" : "_Vvyz62OoEeyYkr5nZ4fmzg",
+      "name" : "host"
+    }, {
+      "id" : "_Vvyz7mOoEeyYkr5nZ4fmzg",
+      "name" : "password"
+    }, {
+      "id" : "_Vvyz7GOoEeyYkr5nZ4fmzg",
+      "name" : "port"
+    }, {
+      "id" : "_Vvyz7WOoEeyYkr5nZ4fmzg",
+      "name" : "username"
+    } ]
+  } ]
+}
